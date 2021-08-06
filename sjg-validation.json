@@ -3,6 +3,6 @@
 "ticker":"OYAJI",
 "discordId":"815847435783241738",
 "pool-list":"true",
-"poolMetaData":"https://github.com/N-oyaji/2021.4.30-2/blob/main/poolMetaData.json",
+"poolMetaData":"https://raw.githubusercontent.com/N-oyaji/2021.4.30-2/main/poolMetaData.json",
 "validation":"https://raw.githubusercontent.com/N-oyaji/main/main/sjg-validation.json"
 }
